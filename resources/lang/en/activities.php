@@ -26,22 +26,22 @@ return [
     'chapter_move'                => 'moved chapter',
 
     // Books
-    'book_create'                 => 'created book',
-    'book_create_notification'    => 'Book successfully created',
-    'book_update'                 => 'updated book',
-    'book_update_notification'    => 'Book successfully updated',
-    'book_delete'                 => 'deleted book',
-    'book_delete_notification'    => 'Book successfully deleted',
-    'book_sort'                   => 'sorted book',
-    'book_sort_notification'      => 'Book successfully re-sorted',
+    'book_create'                 => 'created device',
+    'book_create_notification'    => 'Device successfully created',
+    'book_update'                 => 'updated device',
+    'book_update_notification'    => 'Device successfully updated',
+    'book_delete'                 => 'deleted device',
+    'book_delete_notification'    => 'Device successfully deleted',
+    'book_sort'                   => 'sorted device',
+    'book_sort_notification'      => 'Device successfully re-sorted',
 
     // Bookshelves
-    'bookshelf_create'            => 'created bookshelf',
-    'bookshelf_create_notification'    => 'Bookshelf successfully created',
-    'bookshelf_update'                 => 'updated bookshelf',
-    'bookshelf_update_notification'    => 'Bookshelf successfully updated',
-    'bookshelf_delete'                 => 'deleted bookshelf',
-    'bookshelf_delete_notification'    => 'Bookshelf successfully deleted',
+    'bookshelf_create'            => 'created brand',
+    'bookshelf_create_notification'    => 'Brand successfully created',
+    'bookshelf_update'                 => 'updated brand',
+    'bookshelf_update_notification'    => 'Brand successfully updated',
+    'bookshelf_delete'                 => 'deleted brand',
+    'bookshelf_delete_notification'    => 'Brand successfully deleted',
 
     // Favourites
     'favourite_add_notification' => '":name" has been added to your favourites',
