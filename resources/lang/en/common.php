@@ -6,7 +6,7 @@ return [
 
     // Buttons
     'cancel' => 'Cancel',
-    'confirm' => 'Confirm',
+    'confirm' => 'Yup',
     'back' => 'Back',
     'save' => 'Save',
     'continue' => 'Continue',
@@ -33,7 +33,7 @@ return [
     'copy' => 'Copy',
     'reply' => 'Reply',
     'delete' => 'Delete',
-    'delete_confirm' => 'Confirm Deletion',
+    'delete_confirm' => 'Delete for Realsies?',
     'search' => 'Search',
     'search_clear' => 'Clear Search',
     'reset' => 'Reset',
