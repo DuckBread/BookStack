@@ -85,7 +85,7 @@ return [
     'shelves_popular_empty' => 'The most popular brands will appear here.',
     'shelves_new_empty' => 'The most recently created brands will appear here.',
     'shelves_save' => 'Save Brand',
-    'shelves_books' => 'Books on this brand',
+    'shelves_books' => 'Devices from this brand',
     'shelves_add_books' => 'Add devices to this brand',
     'shelves_drag_books' => 'Drag devices here to add them to this brand',
     'shelves_empty_contents' => 'This brand has no devices assigned to it',
