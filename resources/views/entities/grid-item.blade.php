@@ -3,7 +3,6 @@
     <div class="bg-{{ $entity->getType() }} featured-image-container-wrap">
         <div class="featured-image-container" @if($entity->cover) style="background-image: url('{{ $entity->getBookCover() }}')"@endif>
         </div>
-        @icon($entity->getType())
     </div>
     <div class="grid-card-content">
         <h2 class="text-limit-lines-2">{{ $entity->name }}</h2>
